@@ -1,8 +1,6 @@
 H.B. LLC
 =====
 
-Configure /php/contact.php $admin_email
-
 ~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~|\~~~~~~~~
 ~~~~~~~~~| \~~~~~~~
