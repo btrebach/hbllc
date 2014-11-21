@@ -108,6 +108,8 @@
 	z-index: 9000;
 	background-image: none;
 	background-color: #26292E;
+    font-family: FontAwesome; 
+    content: "f00d";
 	
 	opacity: 0.5;
 	

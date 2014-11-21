@@ -78,11 +78,11 @@ BRUSHED.slider = function(){
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
 											{image : 'assets/img/background/Beach.jpg', title : '<div class="slide-content">Herrington Builders LLC</div>', thumb : '', url : ''},
-											{image : 'assets/img/background/House3.jpg', title : '<div class="slide-content">Herrington Builders LLC</div>', thumb : '', url : ''},
-											{image : 'assets/img/background/House2.jpg', title : '<div class="slide-content">Herrington Builders LLC</div>', thumb : '', url : ''},
-											{image : 'assets/img/background/House4.jpg', title : '<div class="slide-content">Herrington Builders LLC</div>', thumb : '', url : ''},                      
-                                            {image : 'assets/img/background/House5.jpg', title : '<div class="slide-content">Herrington Builders LLC</div>', thumb : '', url : ''},
-                                            {image : 'assets/img/background/House1.jpg', title : '<div class="slide-content">Herrington Builders LLC</div>', thumb : '', url : ''},
+											{image : 'assets/img/background/House3.JPG', title : '<div class="slide-content">Herrington Builders LLC</div>', thumb : '', url : ''},
+											{image : 'assets/img/background/House2.JPG', title : '<div class="slide-content">Herrington Builders LLC</div>', thumb : '', url : ''},
+											{image : 'assets/img/background/House4.JPG', title : '<div class="slide-content">Herrington Builders LLC</div>', thumb : '', url : ''},                      
+                                            {image : 'assets/img/background/House5.JPG', title : '<div class="slide-content">Herrington Builders LLC</div>', thumb : '', url : ''},
+                                            {image : 'assets/img/background/House1.JPG', title : '<div class="slide-content">Herrington Builders LLC</div>', thumb : '', url : ''},
 									],
 									
 		// Theme Options			   
