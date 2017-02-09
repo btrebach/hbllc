@@ -2,7 +2,7 @@
 Theme Name: HBuilders 
 Theme URI: none
 Author: Btrebach
-Author URI: http://www.btrebach.com
+Author URI: http://www.beachfrontinteractive.com
 Description: Company website for Herrington Builders LLC
 Version: 1.0
 */
@@ -783,6 +783,7 @@ nav#menu #menu-nav li a:hover {
 	filter: alpha(opacity=80);
 }
 
+.item-thumbs .hover-wrap .overlay-img-thumb {
 .item-thumbs .hover-wrap .overlay-img-thumb {
 	position: absolute;
 	top: 50%;
